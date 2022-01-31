@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "731077261559",
+    "project_id": "mychatapp-fee45",
+    "storage_bucket": "mychatapp-fee45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731077261559:android:8077354436b80061c6fbf2",
+        "android_client_info": {
+          "package_name": "com.erinfa.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731077261559-l3jraef9fctpijiae1j5e4lptj8d32gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erinfa.mychatapp",
+            "certificate_hash": "8b66fb858508b4fdc8b2ca7a01b1f143d530501f"
+          }
+        },
+        {
+          "client_id": "731077261559-kaeu604r87g90l9a2v3vhv0len1cngvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPClc8jrjGSaOlzr6_-yGOB36BJaPw3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731077261559-kaeu604r87g90l9a2v3vhv0len1cngvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

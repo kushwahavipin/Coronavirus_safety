@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DisplayListofMobiles</string>
+    <array name="mobile">
+        <item>Asus</item>
+        <item>Oppo</item>
+        <item>Vivo</item>
+        <item>One Plus</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>HTC</item>
+        <item>MI</item>
+        <item>Redmi</item>
+        <item>Lenovo</item>
+
+    </array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Name/AndroidStudioProjects/Ducat/firebase/app/src/main/res/drawable/color_btn_1.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/Name/AndroidStudioProjects/Ducat/firebase/app/src/main/res/drawable/color_btn_4.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/Name/AndroidStudioProjects/Ducat/firebase/app/src/main/res/layout/activity_main.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/Name/AndroidStudioProjects/Ducat/firebase/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Name/AndroidStudioProjects/Ducat/firebase/app/src/main/res/layout/activity_radio_batam.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

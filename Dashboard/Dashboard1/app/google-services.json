@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627378336108",
+    "project_id": "dashboard-671ee",
+    "storage_bucket": "dashboard-671ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627378336108:android:67493f3893d5d68b968349",
+        "android_client_info": {
+          "package_name": "com.erinfa.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627378336108-7mj8iai69drv1knqlqnr9lgpmdfq30si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNcMnIQTA5yNXTr1jykrv3jOR087N5k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627378336108-7mj8iai69drv1knqlqnr9lgpmdfq30si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

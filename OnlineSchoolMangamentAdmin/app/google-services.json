@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529927285431",
+    "project_id": "online-school-mangament-admin",
+    "storage_bucket": "online-school-mangament-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529927285431:android:9cfe5c2c5dc00c7d36bb32",
+        "android_client_info": {
+          "package_name": "com.erinfa.onlineschoolmangamentadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529927285431-0q3e8708lk5aqnred233d09lu10he1ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7kakE33SsAhZ-3ThwCzbxleNJxHTFFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529927285431-0q3e8708lk5aqnred233d09lu10he1ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
